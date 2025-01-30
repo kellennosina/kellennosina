@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/machine-learning-banner-web-icon-set-1110900704)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kellen Hansel Nosina</h1>
 <h3 align="center">A passionate AI-ML and Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https : / /cdn. dribbble. com/users/1162@77/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kellennosina" alt="kellennosina" /></a> </p>
 
