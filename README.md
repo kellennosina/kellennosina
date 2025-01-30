@@ -5,7 +5,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162@77/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 Check Out My Portfolio [Kellen's Portfolio](https://kn6567.wixsite.com/portfolio)
+- 👨‍💻 Check Out My [Portfolio](https://kn6567.wixsite.com/portfolio)
 
 - 📫 How to reach me **kn6567@srmist.edu.in**
 
