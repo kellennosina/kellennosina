@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kellen Hansel Nosina</h1>
+<br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79574&center=true&width=435&lines=AI%2FML+Developer;UI%2FUX+Designer+;Always+learning+new+things">
 </p>
-
-<h3 align="center">A passionate AI-ML and Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn. dribbble.com/users/1162@77/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162@77/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 portfolio [https://kn6567.wixsite.com/portfolio](https://kn6567.wixsite.com/portfolio)
 
